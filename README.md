@@ -87,11 +87,13 @@ Twitter              | Fediverse                           | Name
 @mesirii             | @mesirii@chaos.social               | Michael Hunger
 @MGrzejszczak        | @marcin_grzejszczak@mastodon.social | Marcin Grzejszczak
 @mjduigou            | @bondolo@mastodon.social            | Mike Duigou
+@mp911de             | @mp911de@mastodon.social            | Mark Paluch
 @mreinhold           | @mreinhold@mastodon.social          | Mark Reinhold
 @mrhaki              | @mrhaki@mastodon.online             | Hubert Klein Ikkink
 @mkheck              | @mkheck@mastodon.cloud              | Mark Heckler
 @mthmulders          | @mthmulders@mastodon.online         | Maarten Mulders
 @myfear              | @myfear@mastodon.online             | Markus Eisele
+@icougil             | @icougil@mastodon.social            | Nacho Cougil
 @neugens             | @MarioTorre@mastodon.social         | Mario Torre
 @nicolas_frankel     | @frankel@mastodon.top               | Nicolas Fränkel
 @nipafx              | @nipafx@mastodon.social             | Nicolai Parlog
@@ -101,6 +103,7 @@ Twitter              | Fediverse                           | Name
 @omniprof            | @omniprof@mastodon.social           | Ken Fogel
 @overheadhunter      | @overheadhunter@mastodon.social     | Sebastian Stenzel
 @patbaumgartner      | @patbaumgartner@mastodon.social     | Patrick Baumgartner
+@pilhuhn             | @pilhuhn@mastodon.social            | Heiko W. Rupp
 @philross            | @philross@mastodon.social           | Phillip Ross
 @philipp_hauer       | @philipp_hauer@mastodon.online      | Philipp Hauer
 @pintoch             | @pintoch@mamot.fr                   | Antonin Delpeuch
@@ -122,12 +125,14 @@ Twitter              | Fediverse                           | Name
 @stilkov             | @stilkov@mastodon.social            | Stefan Tilkov
 @stuartmarks         | @stuartmarks@mastodon.social        | Stuart Marks
 @sur3shg             | @sureshg@mastodon.social            | Suresh G
-@SvenNB              | @svenreimers@mastodon.social        | Sven Reimers
+@svenNB              | @svenreimers@mastodon.social        | Sven Reimers
 @SvenRuppert         | @svenruppert@mastodon.social        | Sven Ruppert
 @synecdotal          | @synec@mastodon.social              | John Spurling
 @tastapod            | @tastapod@mastodon.social           | Daniel Terhorst-North
+@timbray             | @timbray@mastodon.cloud             | Tim Bray
 @tnurkiewicz         | @nurkiewicz@mastodon.social         | Tomasz Nurkiewicz
 @TCoolsIT            | @TCoolsIT@mastodon.social           | Tom Cools
 @tomsontom           | @tomsontom@mastodon.social          | Tom Schindl
 @TonyPrintezis       | @TonyPrintezis@mastodon.social      | Tony Printezis
 @trisha_gee          | @trishagee@mastodon.social          | Trisha Gee
+                     | @yorgos@chaos.social                | Yorgos Saslis
